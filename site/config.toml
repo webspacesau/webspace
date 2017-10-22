@@ -262,7 +262,7 @@ She worked at Pied Piper for years until they went belly up."""
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "team@webspace.net"
+    email = "team@webspace.net.au"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
