@@ -5,7 +5,7 @@ title = "Webspace"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-108439783-1"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
@@ -17,8 +17,8 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
-  description = "Your description"
+  name = "Webspace"
+  description = "Web and hosting solutions"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -262,7 +262,7 @@ She worked at Pied Piper for years until they went belly up."""
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "your@email.com"
+    email = "team@webspace.net"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
