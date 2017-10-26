@@ -19,7 +19,7 @@ enableRobotsTXT = true
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "Webspace"
-  description = "Web and hosting solutions"
+  description = "Web services and hosting solutions"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -48,7 +48,7 @@ enableRobotsTXT = true
   [params.navigation]
     brand = "Webspace"
     # Optional logo as brand stored in img/
-    #logo = "logo.svg"
+    logo = "logo.svg"
     services = "Services"
     portfolio = "Portfolio"
     about = "About"
@@ -77,7 +77,7 @@ enableRobotsTXT = true
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "Webspace"
-    subtitle = "It's nice to meet you"
+    subtitle = ""
     buttonText = "View our services"
 
 
@@ -85,27 +85,27 @@ enableRobotsTXT = true
   [params.services]
     enable = true
     title = "Services"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    subtitle = "Webspace offers a range of fit-for-purpose digital solutions to suit your unique business and IT needs."
 
     [[params.services.row]]
 
     [[params.services.row.list]]
-      icon = "fa-shopping-cart"
-      title = "E-Commerce"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
-
-    [[params.services.row.list]]
       icon = "fa-laptop"
-      title = "Responsive Design"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
+      title = "Web"
+      description = "We deliver responsive, customer experience driven websites that utilise cutting edge web technologies to ensure speed and search optimisation."
+      # url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-lock"
-      title = "Web"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
+      icon = "fa-cloud"
+      title = "Cloud"
+      description = "We are a specialist and accredited cloud solutions provider that aims to enable innovation through cloud adoption. As an AWS partner, our certified consultants offer cloud migration and hosting solutions to fit your needs."
+      # url = "#"
+
+    [[params.services.row.list]]
+      icon = "fa-group"
+      title = "Advisory"
+      description = "Our advisory arm can partner with you to uplift your digital maturity and ensure your organisation remains competitive in today's digital landscape."
+      # url = "#"
 
   # Portfolio section
   [params.portfolio]
@@ -128,7 +128,7 @@ enableRobotsTXT = true
   [params.about]
     enable = true
     title = "About"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    subtitle = "Our goal at Webspace is to bring more focus to you: the customer "
     endpoint = "Be part<br>of our<br>story!"
 
     # The events will be listed from the top to the bottom.
@@ -136,27 +136,27 @@ enableRobotsTXT = true
     # Replace them with your own.
     [[params.about.events]]
       img = "1.jpg"
-      date = "2009-2011"
-      title = "Our Humble Beginnings"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      # date =
+      title = "Customer Fixation"
+      description = "Webspace began with one goal in mind: to provide the best customer experience"
 
     [[params.about.events]]
       img = "2.jpg"
-      date = "March 2011"
-      title = "An Agency is Born"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      # date =
+      title = "Enterprise Advantage"
+      description = "We aim to bring leading technologies and best-practices used to deliver enterprise level web solutions to small-to-medium size operators at a fraction of the price. We believe the best technologies and methodologies should be accessible to all, not reserved for just Enterprise."
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "December 2012"
-      title = "Our Humble Beginnings"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      # date =
+      title = "Right Tool for the Job"
+      description = "Webspace gives you and your business the quality and security assurance once reserved for the enterprise. We provide highly available, highly scalable and cost optimised web solutions, architected in Amazon Web Services global cloud-based infrastructure, and customised to suit your unique needs"
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "July 2014"
-      title = "Phase Two Expansion"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      # date =
+      title = ""
+      description = "Breathe easy knowing your space on the web is a stable, secure, and cost effective platform from which to grow a long-lasting successful venture. "
 
 
   # Team section
