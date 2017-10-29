@@ -19,7 +19,7 @@ enableRobotsTXT = true
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "Webspace"
-  description = "Web services and hosting solutions"
+  description = "Web and cloud solutions"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -46,9 +46,9 @@ enableRobotsTXT = true
 
   # Navigation
   [params.navigation]
-    brand = "Webspace"
     # Optional logo as brand stored in img/
-    logo = "logo.svg"
+    logo = "3.svg"
+    brand ="Webspace."
     services = "Services"
     portfolio = "Portfolio"
     about = "About"
@@ -76,10 +76,10 @@ enableRobotsTXT = true
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Webspace"
-    subtitle = ""
-    buttonText = "View our services"
 
+    title = "Webspace."
+    subtitle = "Your Space on the Web."
+    buttonText = "View our services"
 
   # Services section
   [params.services]
@@ -149,7 +149,7 @@ enableRobotsTXT = true
     [[params.about.events]]
       img = "3.jpg"
       # date =
-      title = "Right Tool for the Job"
+      title = "The Right Tool for the Job"
       description = "Webspace gives you and your business the quality and security assurance once reserved for the enterprise. We provide highly available, highly scalable and cost optimised web solutions, architected in Amazon Web Services global cloud-based infrastructure, and customised to suit your unique needs"
 
     [[params.about.events]]
@@ -163,7 +163,7 @@ enableRobotsTXT = true
   [params.team]
     enable = true
     # Possibility to center items
-    #center = true
+    center = true
     title = "Our team"
     subtitle = "Lorem ipsum dolor sit amet consectetur."
     description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
@@ -193,23 +193,23 @@ She worked at Pied Piper for years until they went belly up."""
 
     [[params.team.members]]
       img = "2.jpg"
-      name = "Larry Parker"
-      position = "Lead Marketer"
+      name = "Phil Barclay"
+      position = "CTO"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
         ["fa-linkedin", "#"]
       ]
 
-    [[params.team.members]]
-      img = "3.jpg"
-      name = "Diana Pertersen"
-      position = "Lead Developer"
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
-      ]
+    ## [[params.team.members]]
+      ## img = "3.jpg"
+      #name = "Diana Pertersen"
+      #position = "Lead Developer"
+      #social = [
+      #  ["fa-twitter", "#"],
+      #  ["fa-facebook", "#"],
+      #  ["fa-linkedin", "#"]
+      #]
 
   # Client section
     [params.clients_list]
@@ -298,7 +298,7 @@ She worked at Pied Piper for years until they went belly up."""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Published under the Apache License 2.0."
+    #copyright = "Published under the Apache License 2.0."
 
     [[params.footer.social]]
       icon = "fa-twitter"
