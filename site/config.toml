@@ -79,7 +79,7 @@ enableRobotsTXT = true
 
     title = "Webspace."
     subtitle = "Your Space on the Web."
-    buttonText = "View our services"
+    buttonText = "Our services"
 
   # Services section
   [params.services]
@@ -224,7 +224,7 @@ She worked at Pied Piper for years until they went belly up."""
       # Suggestion: .svg in the size of 280px*80px looks good
       [[params.clients]]
         logo = "aws.jpg"
-        link = "#"
+        #link = "#"
 
       #[[params.clients]]
       #  logo = "designmodo.jpg"
@@ -242,7 +242,7 @@ She worked at Pied Piper for years until they went belly up."""
   [params.contact]
     enable = true
     title = "Contact us"
-    #subtitle  = "Lorem ipsum dolor sit amet consectetur."
+    subtitle  = "Leave your details and website URL for a FREE website audit!"
     buttonText = "Send message"
 
     # Since this template is static, the contact form uses www.formspree.io as a
