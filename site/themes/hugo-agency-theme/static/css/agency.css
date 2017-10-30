@@ -174,7 +174,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #2f5596;
+    background-color: #0b8ad6;
 }
 
 .navbar-default .navbar-brand {
@@ -217,7 +217,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle {
     border-color: #fff;
-    background-color: #0b8ad6;
+    background-color: #4472c3;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #0b8ad6;
+    background-color: #4472c3;
 }
 
 .navbar-default .nav li a {
@@ -737,6 +737,7 @@ section h3.section-subheading {
 
 aside.clients img {
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 aside .heading {
