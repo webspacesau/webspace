@@ -278,9 +278,9 @@ She worked at Pied Piper for years until they went belly up."""
       text = "Your Email *"
       warning = "Please enter your email address."
 
-    [params.contact.form.phone]
-      text = "Your Phone *"
-      warning = "Please enter your phone number."
+    #[params.contact.form.phone]
+    #  text = "Your Phone *"
+    #  warning = "Please enter your phone number."
 
     [params.contact.form.message]
       text = "Your Message *"
