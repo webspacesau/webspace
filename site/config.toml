@@ -104,7 +104,7 @@ enableRobotsTXT = true
     [[params.services.row.list]]
       icon = "fa-group"
       title = "Advisory"
-      description = "Our advisory arm can partner with you to uplift your digital maturity and ensure your organisation remains competitive in today's digital landscape."
+      description = "Our advisory practice will partner with you to uplift your digital maturity and ensure your organisation remains competitive in today's digital landscape."
       # url = "#"
 
   # Portfolio section
@@ -166,7 +166,7 @@ enableRobotsTXT = true
     center = true
     title = "Our team"
     subtitle = "Lorem ipsum dolor sit amet consectetur."
-    description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+    #description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
@@ -176,7 +176,7 @@ enableRobotsTXT = true
       name = "Hoani Barker"
       position = "Co-founder"
       #reportsTo = "CTO"
-      livesIn = "[Brisbane, Australia](#some-maps-url)"
+      #livesIn = "[Brisbane, Australia](#some-maps-url)"
       scope = [
         "UX for [member dashboard](#)",
         "Maintainer for [awesome-project](#)",
@@ -186,19 +186,19 @@ enableRobotsTXT = true
       bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
 She worked at Pied Piper for years until they went belly up."""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        #["fa-twitter", "#"],
+        #["fa-facebook", "#"],
+        ["fa-linkedin", "https://au.linkedin.com/in/hoanibarker"]
       ]
 
     [[params.team.members]]
       img = "2.jpg"
       name = "Phil Barclay"
-      position = "CTO"
+      position = "Co-founder"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        #["fa-twitter", "#"],
+        #["fa-facebook", "#"],
+        ["fa-linkedin", "https://au.linkedin.com/in/phillipbarclay"]
       ]
 
     ## [[params.team.members]]
@@ -213,36 +213,36 @@ She worked at Pied Piper for years until they went belly up."""
 
   # Client section
     [params.clients_list]
-      enable = false
+      enable = true
       # Possibility to center items
-      #center = true
+      center = true
       # Optional client title specifying the involvement
-      #title = "Used and trusted by"
+      #title = "Partners:"
 
       # All the clients' logos are stored under 'static/img/logos'.
       # Replace them with your clients's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
       [[params.clients]]
-        logo = "envato.jpg"
+        logo = "aws.jpg"
         link = "#"
 
-      [[params.clients]]
-        logo = "designmodo.jpg"
-        link = "#"
+      #[[params.clients]]
+      #  logo = "designmodo.jpg"
+      #  link = "#"
 
-      [[params.clients]]
-        logo = "themeforest.jpg"
-        link = "#"
+      #[[params.clients]]
+      #  logo = "themeforest.jpg"
+      #  link = "#"
 
-      [[params.clients]]
-        logo = "creative-market.jpg"
-        link = "#"
+      #[[params.clients]]
+      #  logo = "creative-market.jpg"
+      #  link = "#"
 
   # Contact section
   [params.contact]
     enable = true
     title = "Contact us"
-    subtitle  = "Lorem ipsum dolor sit amet consectetur."
+    #subtitle  = "Lorem ipsum dolor sit amet consectetur."
     buttonText = "Send message"
 
     # Since this template is static, the contact form uses www.formspree.io as a
@@ -300,22 +300,22 @@ She worked at Pied Piper for years until they went belly up."""
     enable = true
     #copyright = "Published under the Apache License 2.0."
 
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      link = "#"
+    #[[params.footer.social]]
+    #  icon = "fa-twitter"
+    #  link = "#"
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      link = "#"
+      link = "https://www.facebook.com/webspace.au/"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      link = "#"
+      link = "https://www.linkedin.com/company/webspaces/"
 
-    [[params.footer.quicklinks]]
-      text = "Privacy Policy"
-      link = "#"
+    #[[params.footer.quicklinks]]
+    #  text = "Privacy Policy"
+    #  link = "#"
 
-    [[params.footer.quicklinks]]
-      text = "Terms of Use"
-      link = "#"
+    #[[params.footer.quicklinks]]
+    #  text = "Terms of Use"
+    #  link = "#"
