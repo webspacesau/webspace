@@ -79,7 +79,7 @@ enableRobotsTXT = true
 
     title = "Webspace."
     subtitle = "Your Space on the Web."
-    buttonText = "Our services"
+    buttonText = "Our Services"
 
   # Services section
   [params.services]
