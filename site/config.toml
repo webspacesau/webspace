@@ -196,6 +196,7 @@ enableRobotsTXT = true
       #reportsTo = "CTO"
       #livesIn = "[Brisbane, Australia](#some-maps-url)"
       ]
+      
       # For bio markdown and even multiline strings are available.
       bio = """Hoani has worked with large federal government and corporate organisation to build advanced cloud capability.
 With perspectives from both public and private sectors, he's seen how cloud can drastically cut costs and increase agility."""
