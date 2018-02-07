@@ -91,22 +91,40 @@ enableRobotsTXT = true
 
     [[params.services.row.list]]
       icon = "fa-laptop"
-      title = "DevOps"
-      description = "Make your life simple with responsive, automated and simplified softwawre delivery, test and intergration workflows that utilise cutting edge web technologies to ensure agility and increased productivity."
+      title = "Managed Services"
+      description = "We partner with your business to provide innovative outsourced IT service solutions. No matter what your organisation's cloud maturity level is, our standard managed services offering enables you to focus on what you do best."
       # url = "#"
-
+      
+    [[params.services.row.list]]
+      icon = "fa-cogs"
+      title = "DevOps"
+      description = "Make your life simple with automated and simplified software delivery, test and intergration workflows that utilise cutting edge web technologies and ensure increased agility and productivity."
+      # url = "#"
+      
     [[params.services.row.list]]
       icon = "fa-cloud"
-      title = "Cloud"
-      description = "Specialised and accredited cloud solutions and services provider that aims to enable innovation through cloud adoption. As an AWS partner, our certified consultants offer cloud migration, cost optimisation, cyber security and hosting solutions to fit your needs."
+      title = "Cloud Enablement"
+      description = "As a specialised and accredited cloud solutions and services provider, we aim to enable innovation through cloud adoption. Minimise your Total Cost of Ownership through cloud readiness planning in preperation for your cloud migration"
       # url = "#"
 
     [[params.services.row.list]]
       icon = "fa-group"
       title = "Advisory"
-      description = "Our advisory practice will partner with you to uplift your digital maturity and ensure your organisation remains competitive in today's digital landscape."
+      description = "Our advisory practice will partner with you to develop a strategy to uplift your digital maturity and ensure your organisation remains competitive in today's digital landscape."
       # url = "#"
 
+    [[params.services.row.list]]
+      icon = "fa-dollar-sign"
+      title = "Cost Optimisation"
+      description = "Analyse your existing cloud spend and identify oportunities where resource allocation or user behaviour can be improved to optimise cost."
+      # url = "#"
+
+    [[params.services.row.list]]
+      icon = "fa-shield-alt"
+      title = "Cloud Security"
+      description = "Information security threats are on the rise. We ensure security audits are part of business as usual both internaly and with our customers. We offer comprehensive audits and recomendations to our customers through regular security management workshops and security management services."
+      # url = "#"
+      
   # Portfolio section
   [params.portfolio]
     enable = false
@@ -165,7 +183,7 @@ enableRobotsTXT = true
     # Possibility to center items
     center = true
     title = "Our team"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    subtitle = "Meet the founders."
     #description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
 
     # All team member's pictures are stored under 'static/img/team'.
@@ -183,8 +201,8 @@ enableRobotsTXT = true
         "Open Source [community management](#)"
       ]
       # For bio markdown and even multiline strings are available.
-      bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
-She worked at Pied Piper for years until they went belly up."""
+      bio = """Hoani has worked with large federal government and corporate organisation to build cloud capability.
+With perspectives from both public and private sectors, he's seen how cloud can drastically cut costs and increase agility."""
       social = [
         #["fa-twitter", "#"],
         #["fa-facebook", "#"],
