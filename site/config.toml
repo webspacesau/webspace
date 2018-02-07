@@ -85,14 +85,14 @@ enableRobotsTXT = true
   [params.services]
     enable = true
     title = "Services"
-    subtitle = "Webspace offers a range of fit-for-purpose cloud solutions to suit your unique business and IT needs."
+    subtitle = "Webspace offers fit-for-purpose cloud solutions to suit your unique business and IT needs."
 
     [[params.services.row]]
 
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Managed Services"
-      description = "We partner with your business to provide innovative outsourced cloud-native IT services. No matter what your organisation's cloud maturity level is, our standard managed services offering enables you to focus on what you do best."
+      description = "We partner with your business to provide innovative cloud-native IT services. No matter what your organisation's cloud maturity level is, our standard managed services offering enables you to focus on what you do best."
       # url = "#"
       
     [[params.services.row.list]]
@@ -146,7 +146,7 @@ enableRobotsTXT = true
   [params.about]
     enable = true
     title = "About"
-    subtitle = "Our goal at Webspace is to enable you to focus more on your business and reduce the burden of trying to keep up with tech trends. That's our business; it's what we're passionate about. As a service provider we bring more focus to you: the customer. Your needs are our focus, and how technology can enhance your business is our offering."
+    subtitle = "Our goal at Webspace is to enable you to focus more on your business and reduce the burden of trying to keep up with tech trends. That's our business; it's what we're passionate about. As a service provider we bring more focus to you: the customer. Your needs are our focus, and indentifying how cloud technology can enhance your business is our mission."
     endpoint = "Be part<br>of our<br>story!"
 
     # The events will be listed from the top to the bottom.
@@ -162,19 +162,19 @@ enableRobotsTXT = true
       img = "2.jpg"
       # date =
       title = "Enterprise Advantage"
-      description = "We aim to bring leading technologies and best-practices used to deliver enterprise level cloud solutions to small-to-medium size operators at a fraction of the price. We believe the best technologies and methodologies should be accessible to all, not reserved for the big players."
+      description = "We aim to bring leading technologies and best-practices used to deliver enterprise level cloud solutions to small-to-medium size operators at a fraction of the price. We believe the best technologies and methodologies should be accessible to all, not just reserved for the big players."
 
     [[params.about.events]]
       img = "3.jpg"
       # date =
       title = "The Right Tool for the Job"
-      description = "We provide highly available, highly scalable and cost optimised cloud solutions architected in Amazon Web Services global cloud-based infrastructure, and customised to suit your unique business and IT needs. The AWS platform gives you access to all the latest and greatest gadgets and tools across all leading enterprise and open source web technologies in the market"
+      description = "We provide highly available, highly scalable and cost optimised cloud solutions architected in Amazon Web Services global cloud-based infrastructure. The AWS platform gives you access to all the latest and greatest gadgets and tools across all leading enterprise and open source web technologies"
 
     [[params.about.events]]
       img = "4.jpg"
       # date =
       title = ""
-      description = "Breathe easy knowing your space on the web is a stable, secure, and cost effective platform from which to grow a long-lasting successful venture. "
+      description = "Breathe easy knowing your space on the web is a stable, secure, and cost effective platform from which to grow a long-lasting successful venture."
 
 
   # Team section
@@ -195,13 +195,9 @@ enableRobotsTXT = true
       position = "Co-founder"
       #reportsTo = "CTO"
       #livesIn = "[Brisbane, Australia](#some-maps-url)"
-      scope = [
-        "UX for [member dashboard](#)",
-        "Maintainer for [awesome-project](#)",
-        "Open Source [community management](#)"
       ]
       # For bio markdown and even multiline strings are available.
-      bio = """Hoani has worked with large federal government and corporate organisation to build cloud capability.
+      bio = """Hoani has worked with large federal government and corporate organisation to build advanced cloud capability.
 With perspectives from both public and private sectors, he's seen how cloud can drastically cut costs and increase agility."""
       social = [
         #["fa-twitter", "#"],
@@ -213,6 +209,8 @@ With perspectives from both public and private sectors, he's seen how cloud can 
       img = "2.jpg"
       name = "Phil Barclay"
       position = "Co-founder"
+      bio = """Phil is an experienced cloud architecht and thought leader in the cloud-native serverless movement. 
+He's worked alongside high profile AWS specialist to delivery leading edge and innovative cloud solutions for top ASX 100 companies."""
       social = [
         #["fa-twitter", "#"],
         #["fa-facebook", "#"],
