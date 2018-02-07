@@ -85,20 +85,20 @@ enableRobotsTXT = true
   [params.services]
     enable = true
     title = "Services"
-    subtitle = "Webspace offers a range of fit-for-purpose digital solutions to suit your unique business and IT needs."
+    subtitle = "Webspace offers a range of fit-for-purpose cloud solutions to suit your unique business and IT needs."
 
     [[params.services.row]]
 
     [[params.services.row.list]]
       icon = "fa-laptop"
-      title = "Web"
-      description = "We deliver responsive, customer experience driven websites that utilise cutting edge web technologies to ensure speed and search optimisation."
+      title = "DevOps"
+      description = "Make your life simple with responsive, automated and simplified softwawre delivery, test and intergration workflows that utilise cutting edge web technologies to ensure agility and increased productivity."
       # url = "#"
 
     [[params.services.row.list]]
       icon = "fa-cloud"
       title = "Cloud"
-      description = "We are a specialist and accredited cloud solutions provider that aims to enable innovation through cloud adoption. As an AWS partner, our certified consultants offer cloud migration and hosting solutions to fit your needs."
+      description = "Specialised and accredited cloud solutions and services provider that aims to enable innovation through cloud adoption. As an AWS partner, our certified consultants offer cloud migration, cost optimisation, cyber security and hosting solutions to fit your needs."
       # url = "#"
 
     [[params.services.row.list]]
