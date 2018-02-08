@@ -98,7 +98,7 @@ enableRobotsTXT = true
     [[params.services.row.list]]
       icon = "fa-cogs"
       title = "DevOps"
-      description = "Make your life simple with automated and simplified software delivery, test and intergration workflows that utilise cutting edge web technologies and ensure increased agility and productivity."
+      description = "Make your life simple with automated and simplified software delivery, test and intergration workflows that utilise cutting edge web technologies that guarantee increased agility and productivity."
       # url = "#"
       
     [[params.services.row.list]]
@@ -146,7 +146,9 @@ enableRobotsTXT = true
   [params.about]
     enable = true
     title = "About"
-    subtitle = "Our goal at Webspace is to enable you to focus more on your business and reduce the burden of trying to keep up with tech trends. That's our business; it's what we're passionate about. As a service provider we bring more focus to you: the customer. Your needs are our focus, and indentifying how cloud technology can enhance your business is our mission."
+    subtitle = "Our goal at Webspace is to enable you to focus more on your business and reduce the burden of trying to keep up with technology trends. 
+    That's our business; it's what we're passionate about. 
+    As a service provider we bring more focus to you: the customer. Your needs are our focus, and indentifying how cloud technology can enhance your business is our mission."
     endpoint = "Be part<br>of our<br>story!"
 
     # The events will be listed from the top to the bottom.
