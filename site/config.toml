@@ -114,7 +114,7 @@ enableRobotsTXT = true
       # url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-money"
+      icon = "fa-usd"
       title = "Cost Optimisation"
       description = "Analyse your existing cloud spend and identify oportunities where resource allocation or user behaviour can improve to focus efforts and optimise cost."
       # url = "#"
