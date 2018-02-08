@@ -92,7 +92,7 @@ enableRobotsTXT = true
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Managed Services"
-      description = "We partner with your business to provide innovative outsourced cloud-native IT services. No matter what your organisation's cloud maturity level is, our standard managed services offering enables you to focus on what you do best."
+      description = "We partner with your business to provide innovative outsourced IT services. No matter what your organisation's cloud maturity level is, our standard managed services offering enables you to focus on what you do best."
       # url = "#"
       
     [[params.services.row.list]]
