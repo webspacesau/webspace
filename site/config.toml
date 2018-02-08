@@ -168,7 +168,7 @@ enableRobotsTXT = true
       img = "3.jpg"
       # date =
       title = "The Right Tool for the Job"
-      description = "We provide highly available, highly scalable and cost optimised cloud solutions architected in Amazon Web Services global cloud-based infrastructure. The AWS platform gives you access to all the latest and greatest gadgets and tools across all leading enterprise and open source web technologies"
+      description = "We provide highly available, highly scalable and cost optimised cloud solutions architected in Amazon Web Services global cloud-based infrastructure. The AWS platform gives you access to the latest and greatest gadgets and tools across all leading enterprise and open source web technologies"
 
     [[params.about.events]]
       img = "4.jpg"
