@@ -194,7 +194,7 @@ enableRobotsTXT = true
       name = "Hoani Barker"
       position = "Co-founder"
       bio = """Hoani has worked with large state and federal government organisations and ASX top 100 corporations to develop advanced IT capabilities through cloud enablement.
-With perspectives from both public and private sectors, he's seen how cloud can drastically cut costs and increase agility in an increasingly competitive market place."""
+With perspectives from both public and private sectors, he's seen how cloud can drastically cut costs, increase agility, and empower business."""
       social = [
         #["fa-twitter", "#"],
         #["fa-facebook", "#"],
@@ -206,7 +206,7 @@ With perspectives from both public and private sectors, he's seen how cloud can 
       name = "Phil Barclay"
       position = "Co-founder"
       bio = """Phil is an experienced cloud solutions architecht and thought leader in the cloud-native serverless movement. 
-He's worked alongside several high profile AWS specialist to delivery leading edge and innovative cloud solutions for top ASX 100 companies."""
+He's worked alongside several high profile AWS specialist to delivery leading edge and innovative cloud solutions for top ASX 100 companies. Phil is an AWS acredited Solution Architect, Developer, and Systems Operator."""
       social = [
         #["fa-twitter", "#"],
         #["fa-facebook", "#"],
