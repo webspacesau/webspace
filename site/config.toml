@@ -193,7 +193,7 @@ enableRobotsTXT = true
       img = "1.jpg"
       name = "Hoani Barker"
       position = "Co-founder"
-      bio = """Hoani hsa worked with large state and federal government organisations and ASX top 100 corporations to develop advanced IT capabilities through cloud enablement.
+      bio = """Hoani has worked with large state and federal government organisations and ASX top 100 corporations to develop advanced IT capabilities through cloud enablement.
 With perspectives from both public and private sectors, he's seen how cloud can drastically cut costs and increase agility in an increasingly competitive market place."""
       social = [
         #["fa-twitter", "#"],
