@@ -146,9 +146,7 @@ enableRobotsTXT = true
   [params.about]
     enable = true
     title = "About"
-    subtitle = "Our goal at Webspace is to enable you to focus more on your business and reduce the burden of trying to keep up with technology trends. 
-    That's our business; it's what we're passionate about. 
-    As a service provider we bring more focus to you: the customer. Your needs are our focus, and indentifying how cloud technology can enhance your business is our mission."
+    subtitle = "Our goal at Webspace is to enable you to focus more on your business and reduce the burden of trying to keep up with technology trends. That's our business; it's what we're passionate about. As a service provider we bring more focus to you: the customer. Your needs are our focus, and indentifying how cloud technology can enhance your business is our mission."
     endpoint = "Be part<br>of our<br>story!"
 
     # The events will be listed from the top to the bottom.
