@@ -193,8 +193,8 @@ enableRobotsTXT = true
       img = "1.jpg"
       name = "Hoani Barker"
       position = "Co-founder"
-      bio = """Hoani has worked with large federal government and corporate organisation to build advanced cloud capability.
-With perspectives from both public and private sectors, he's seen how cloud can drastically cut costs and increase agility."""
+      bio = """Hoani hsa worked with large state and federal government organisations and ASX top 100 corporations to develop advanced IT capabilities through cloud enablement.
+With perspectives from both public and private sectors, he's seen how cloud can drastically cut costs and increase agility in an increasingly competitive market place."""
       social = [
         #["fa-twitter", "#"],
         #["fa-facebook", "#"],
@@ -205,8 +205,8 @@ With perspectives from both public and private sectors, he's seen how cloud can 
       img = "2.jpg"
       name = "Phil Barclay"
       position = "Co-founder"
-      bio = """Phil is an experienced cloud architecht and thought leader in the cloud-native serverless movement. 
-He's worked alongside high profile AWS specialist to delivery leading edge and innovative cloud solutions for top ASX 100 companies."""
+      bio = """Phil is an experienced cloud solutions architecht and thought leader in the cloud-native serverless movement. 
+He's worked alongside several high profile AWS specialist to delivery leading edge and innovative cloud solutions for top ASX 100 companies."""
       social = [
         #["fa-twitter", "#"],
         #["fa-facebook", "#"],
