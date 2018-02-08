@@ -114,13 +114,13 @@ enableRobotsTXT = true
       # url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-dollar-sign"
+      icon = "fa-money"
       title = "Cost Optimisation"
       description = "Analyse your existing cloud spend and identify oportunities where resource allocation or user behaviour can improve to focus efforts and optimise cost."
       # url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-shield-alt"
+      icon = "fa-shield"
       title = "Cloud Security"
       description = "Information security threats are on the rise. We offer comprehensive audits and recomendations to our customers through regular security management workshops and security management services."
       # url = "#"
