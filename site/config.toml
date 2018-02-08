@@ -78,14 +78,14 @@ enableRobotsTXT = true
     # the 'static/img' folder.
 
     title = "Webspace."
-    subtitle = "Your #1 Trusted Cloud Services Provider"
+    subtitle = "Your Cloud Services Provider"
     buttonText = "Our Services"
 
   # Services section
   [params.services]
     enable = true
     title = "Services"
-    subtitle = "Webspace offers fit-for-purpose cloud solutions to suit your unique business and IT needs."
+    subtitle = "Webspace offers fit-for-purpose cloud solutions to suit your business and IT needs."
 
     [[params.services.row]]
 
@@ -110,7 +110,7 @@ enableRobotsTXT = true
     [[params.services.row.list]]
       icon = "fa-group"
       title = "Advisory"
-      description = "Our advisory practice will partner with you to develop strategies to uplift your digital maturity and ensure your organisation remains competitive in today's digital landscape."
+      description = "Our advisory practice will partner with you to develop strategies that will uplift your digital maturity and ensure your organisation remains competitive in today's digital landscape."
       # url = "#"
 
     [[params.services.row.list]]
