@@ -19,7 +19,7 @@ enableRobotsTXT = true
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "Webspace"
-  description = "Web and cloud solutions"
+  description = "Cloud Solutions"
 
   # Link custom assets relative to /static
   custom_css = []
