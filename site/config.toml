@@ -98,13 +98,13 @@ enableRobotsTXT = true
     [[params.services.row.list]]
       icon = "fa-cogs"
       title = "DevOps"
-      description = "Make your life simple with automated and simplified software delivery, test and intergration workflows that utilise cutting edge web technologies that guarantee increased agility and productivity."
+      description = "Make your life simple with automated and simplified software delivery, test and integration workflows that utilise cutting edge web technologies that guarantee increased agility and productivity."
       # url = "#"
       
     [[params.services.row.list]]
       icon = "fa-cloud"
       title = "Cloud Enablement"
-      description = "As a specialised and accredited cloud solutions and services provider, we aim to enable innovation through cloud adoption. Minimise your Total Cost of Ownership through cloud readiness planning in preperation for your cloud migration"
+      description = "As a specialised and accredited cloud solutions and services provider, we aim to enable innovation through cloud adoption. Minimise your Total Cost of Ownership through cloud readiness planning in preparation for your cloud migration"
       # url = "#"
 
     [[params.services.row.list]]
@@ -116,13 +116,13 @@ enableRobotsTXT = true
     [[params.services.row.list]]
       icon = "fa-usd"
       title = "Cost Optimisation"
-      description = "Analyse your existing cloud spend and identify oportunities where resource allocation or user behaviour can improve to focus efforts and optimise cost."
+      description = "Analyse your existing cloud spend and identify opportunities where resource allocation or user behaviour can improve to focus efforts and optimise cost."
       # url = "#"
 
     [[params.services.row.list]]
       icon = "fa-shield"
       title = "Cloud Security"
-      description = "Information security threats are on the rise. We offer comprehensive audits and recomendations to our customers through regular security management workshops and security management services."
+      description = "Information security threats are on the rise. We offer comprehensive audits and recommendations to our customers through regular security management workshops and security management services."
       # url = "#"
       
   # Portfolio section
@@ -146,7 +146,7 @@ enableRobotsTXT = true
   [params.about]
     enable = true
     title = "About"
-    subtitle = "Our goal at Webspace is to enable you to focus more on your business and reduce the burden of trying to keep up with technology trends. That's our business; it's what we're passionate about. As a service provider we bring more focus to you: the customer. Your needs are our focus, and indentifying how cloud technology can enhance your business is our mission."
+    subtitle = "Our goal at Webspace is to enable you to focus more on your business and reduce the burden of trying to keep up with technology trends. That's our business; it's what we're passionate about. As a service provider we bring more focus to you: the customer. Your needs are our focus, and identifying how cloud technology can enhance your business is our mission."
     endpoint = "Be part<br>of our<br>story!"
 
     # The events will be listed from the top to the bottom.
@@ -174,7 +174,7 @@ enableRobotsTXT = true
       img = "4.jpg"
       # date =
       title = ""
-      description = "Breathe easy knowing your space on the web is a scalable, secure, highly available and cost effective platform from which to grow a long-lasting successful venture."
+      description = "Breathe easy knowing your space on the web is a scalable, secure, highly available and cost-effective platform from which to grow a long-lasting successful venture."
 
 
   # Team section
@@ -205,8 +205,8 @@ With perspectives from both public and private sectors, he's seen how cloud can 
       img = "2.jpg"
       name = "Phil Barclay"
       position = "Co-founder"
-      bio = """Phil is an experienced cloud solutions architecht and thought leader in the cloud-native serverless movement. 
-He's worked alongside several high profile AWS specialist to delivery leading edge and innovative cloud solutions for top ASX 100 companies. Phil is an AWS acredited Solution Architect, Developer, and Systems Operator."""
+      bio = """Phil is an experienced Cloud Architect and advocate of cloud-native and serverless solutions. 
+He's worked on several projects, delivering cutting edge and innovative cloud solutions for government and ASX 100 companies. Phil is an AWS Certified Solution Architect, Developer, and SysOps Administrator."""
       social = [
         #["fa-twitter", "#"],
         #["fa-facebook", "#"],
