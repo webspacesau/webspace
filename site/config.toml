@@ -254,7 +254,7 @@ He's worked on several projects, delivering cutting edge and innovative cloud so
   [params.contact]
     enable = true
     title = "Contact us"
-    # subtitle  = "Leave your details and website URL for a FREE website audit!"
+    subtitle  = "Leave your details and we'll get back to you!"
     buttonText = "Send message"
 
     # Since this template is static, the contact form uses www.formspree.io as a
@@ -290,9 +290,9 @@ He's worked on several projects, delivering cutting edge and innovative cloud so
       text = "Your Email *"
       warning = "Please enter your email address."
 
-    #[params.contact.form.phone]
-    #  text = "Your Phone *"
-    #  warning = "Please enter your phone number."
+    [params.contact.form.phone]
+      text = "Your Phone *"
+      warning = "Please enter your phone number."
 
     [params.contact.form.message]
       text = "Your Message *"
