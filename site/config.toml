@@ -254,7 +254,7 @@ He's worked on several projects, delivering cutting edge and innovative cloud so
   [params.contact]
     enable = true
     title = "Contact us"
-    subtitle  = "Leave your details and website URL for a FREE website audit!"
+    # subtitle  = "Leave your details and website URL for a FREE website audit!"
     buttonText = "Send message"
 
     # Since this template is static, the contact form uses www.formspree.io as a
