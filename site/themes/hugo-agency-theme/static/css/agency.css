@@ -14,6 +14,11 @@ body {
     color: #777;
 }
 
+.text-white {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #fff;
+}
+
 .text-primary {
     color: #0b8ad6;
 }
