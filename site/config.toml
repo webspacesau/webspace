@@ -78,7 +78,7 @@ enableRobotsTXT = true
     # the 'static/img' folder.
 
     title = "Webspace."
-    subtitle = "Your Cloud Services Specialist"
+    subtitle = "Your Cloud Specialist"
     buttonText = "Our Services"
 
   # Services section
