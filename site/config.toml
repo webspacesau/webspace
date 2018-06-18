@@ -66,10 +66,10 @@ enableRobotsTXT = true
     #  weight = 10
 
     # postpended links
-    # [[menu.postpend]]
-    #  url = "http://gohugo.io"
-    #  name = "External link"
-    #  weight = 10
+    [[menu.postpend]]
+     url = "https://blog.webspace.net.au"
+     name = "Blog"
+     weight = 10
 
 
   # Hero section
